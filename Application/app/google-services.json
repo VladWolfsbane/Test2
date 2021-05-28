@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9201110695",
+    "project_id": "application-c930e",
+    "storage_bucket": "application-c930e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9201110695:android:f4f838aa454c406c0b1582",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9201110695-ahr1po8e35anpcf5tv5viobfqmo9bjp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscEcQ4x66gBugCLPd-0ldgAxJo-ZqF9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9201110695-ahr1po8e35anpcf5tv5viobfqmo9bjp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
